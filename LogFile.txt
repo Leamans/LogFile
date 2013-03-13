@@ -1,0 +1,13 @@
+LogFile.txt
+This file was created on Tuesday, 12 March 2013. 21:41:39
+
+21:41:39 Index 0: 2
+21:41:39 Index 1: 4
+21:41:39 Index 2: 8
+21:41:39 Index 3: 16
+21:41:39 Index 4: 32
+21:41:39 Index 5: 64
+21:41:39 Index 6: 128
+21:41:39 Index 7: 256
+21:41:39 ERROR! You have an error relating to class java.lang.ArrayIndexOutOfBoundsException
+Index 8 does not exist.
