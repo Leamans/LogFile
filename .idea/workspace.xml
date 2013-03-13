@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/CreateFile.java" line="21" />
+    <bookmark url="file://$PROJECT_DIR$/src/CreateFile.java" line="22" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6091d68-3817-4334-bf19-054bc2abeed8" name="Default" comment="" />
     <ignored path="Log File.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/CreateFile.java" changelist="b6091d68-3817-4334-bf19-054bc2abeed8" time="1363138269203" ignored="false" />
+    <file path="/CreateFile.java" changelist="b6091d68-3817-4334-bf19-054bc2abeed8" time="1363140115005" ignored="false" />
     <file path="/Main.java" changelist="b6091d68-3817-4334-bf19-054bc2abeed8" time="1363138855346" ignored="false" />
     <file path="/fragment.java" changelist="b6091d68-3817-4334-bf19-054bc2abeed8" time="1363135535435" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,7 +79,7 @@
       <file leaf-file-name="CreateFile.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CreateFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="25" selection-start="791" selection-end="791" vertical-scroll-proportion="0.9546436">
+            <state line="13" column="43" selection-start="413" selection-end="413" vertical-scroll-proportion="0.36717063">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,8 +97,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/CreateFile.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/CreateFile.java" />
       </list>
     </option>
   </component>
@@ -240,7 +240,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1616" height="886" extended-state="7" />
+    <frame x="-8" y="22" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -341,7 +341,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CreateFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="25" selection-start="791" selection-end="791" vertical-scroll-proportion="0.9546436">
+        <state line="13" column="43" selection-start="413" selection-end="413" vertical-scroll-proportion="0.36717063">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
